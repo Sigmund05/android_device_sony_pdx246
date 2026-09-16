@@ -25,6 +25,27 @@ value:2908
 [AID_VENDOR_QTR]
 value:2909
 
+[AID_VENDOR_IDD]
+value:2987
+
+[AID_VENDOR_TRIMAREA]
+value:2993
+
+[AID_VENDOR_CHARGER]
+value:2995
+
+[AID_VENDOR_SECUREDATAMGR_CLIENT]
+value:2996
+
+[AID_VENDOR_TAD]
+value:2997
+
+[AID_VENDOR_TA_QMI]
+value:2998
+
+[AID_VENDOR_CRASHDUMP]
+value:2999
+
 [vendor/bin/wcnss_filter]
 mode: 0755
 user: AID_BLUETOOTH
